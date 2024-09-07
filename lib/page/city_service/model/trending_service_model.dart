@@ -21,6 +21,11 @@ abstract final class TrendingServiceModel {
       ),
       // 在此列表後加入新熱門按鈕
       // add new trending service button here
+      TrendingService(
+        icon: Assets.svg.iconLocationSearch.svg(),
+        title: 'test',
+        url: 'http://192.168.0.5:3000/user',
+      ),
     ];
   }
 }
