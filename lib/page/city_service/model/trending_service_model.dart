@@ -24,7 +24,7 @@ abstract final class TrendingServiceModel {
       TrendingService(
         icon: Assets.svg.iconLocationSearch.svg(),
         title: 'test',
-        url: 'http://192.168.0.5:3000/user',
+        url: 'http://192.168.0.5:3000',
       ),
     ];
   }
