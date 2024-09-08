@@ -23,7 +23,7 @@ abstract final class TrendingServiceModel {
       // add new trending service button here
       TrendingService(
         icon: Assets.svg.iconLocationSearch.svg(),
-        title: 'test',
+        title: 'FLEA TAIPEI',
         url: 'https://taipeipass.squidspirit.com/',
       ),
     ];
